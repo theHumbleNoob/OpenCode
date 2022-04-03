@@ -1,0 +1,19 @@
+In this module you will learn how to open and manage SFML window.
+
+The files are not in correct order, soon I am going to update!
+
+# Follow the below order:
+
+1. What is Window ?
+2. What is SFML ?
+3. Creating Window ?
+4. Creating a functioning window
+5. Playing with the window
+6. The Game loop
+7. The Render Frame
+8. Controlling the frame rate
+9. Thing to know about the window
+10. Concept of Bits Per Pixel
+11. SfVideoMode_class
+12. sfVector2T_class
+13. sfColor_class
