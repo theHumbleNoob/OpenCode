@@ -3,3 +3,6 @@ I am assuming that you know the basics of c++ before starting with SFML.
 
 About SFML:
 SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network.
+
+Note to the readers:
+In future I will upload more tutorials and projects related to SFML as I progress.
